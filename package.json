@@ -1,0 +1,23 @@
+{
+  "name": "linters-html-css",
+  "version": "1.0.0",
+  "description": "If you are not familiar with linters, read [root level README](../README.md).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tugsem/linters-html-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tugsem/linters-html-css/issues"
+  },
+  "homepage": "https://github.com/tugsem/linters-html-css#readme",
+  "devDependencies": {
+    "hint": "^6.1.10"
+  }
+}
